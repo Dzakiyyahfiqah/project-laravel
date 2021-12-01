@@ -39,7 +39,6 @@
   
 </section id="about">
 <div class="container">
-
   <div class="row text-center mb-3">
     <div class="col">
       <h2>tentang saya</h2>
